@@ -4,7 +4,7 @@
 * https://www.coursera.org/learn/cloud-computing/home/welcome
 
 ### Week 4: Some experimentation with Bloom Filters
-* /Cloud-Computing-Concepts-Part-1/Week-4/Bloom
+* /cloud-computing-concepts-part-1/week-4/Bloom
 
 ### Programming Assignment: Gossip Protocol
-* /Cloud-Computing-Concepts-Part-1/Programming-Assignment/
+* /cloud-computing-concepts-part-1/programming-assignment/
